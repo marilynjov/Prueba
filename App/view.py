@@ -20,7 +20,7 @@
  * along withthis program.  If not, see <http://www.gnu.org/licenses/>.
  * contribuciones:
  *
- * Dario Correal - Version inicial
+ * Dario Correal - Version inicia
  """
 
 import config as cf
